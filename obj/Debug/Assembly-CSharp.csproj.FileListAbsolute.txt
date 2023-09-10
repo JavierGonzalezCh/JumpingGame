@@ -1,0 +1,2 @@
+C:\Proyectos\Unity\JumpGame\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Proyectos\Unity\JumpGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
